@@ -1,4 +1,3 @@
-# didactic-umbrella
 GitHub Pages Exercise
 ===========
 Involves
